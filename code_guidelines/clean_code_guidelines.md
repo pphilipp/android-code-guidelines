@@ -1,4 +1,4 @@
-## Valtech Clean Code Guidelines (based on Smells and Heuristics Clean Code by Robert Martin) 
+## Clean Code Guidelines (based on Smells and Heuristics Clean Code by Robert Martin) 
 
 ## COMMENTS
 
